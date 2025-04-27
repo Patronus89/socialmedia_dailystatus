@@ -1,9 +1,5 @@
+streamlit
 newspaper3k
-snscrape
 transformers
 torch
 langdetect
-python-docx
-APScheduler
-requests
-beautifulsoup4
