@@ -1,12 +1,12 @@
 email_settings:
-  sender_email: your_email@gmail.com
-  sender_password: your_app_password
-  receiver_email: receiver_email@gmail.com
-  smtp_server: smtp.gmail.com
+  sender_email: 
+  sender_password:
+  receiver_email: 
+  smtp_server: 
   smtp_port: 587
 
 git_settings:
-  repo_path: /full/path/to/your/local/git/folder
+  repo_path: /Users/nihalsingh/Desktop/Learning/04. Social Chatter Summary
   remote_name: origin
   branch_name: main
 
