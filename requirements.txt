@@ -3,3 +3,4 @@ newspaper3k
 transformers
 torch
 langdetect
+lxml_html_clean
